@@ -3,6 +3,8 @@
 
 tap homebrew/core
 brew apktool
+brew autoconf
+brew automake
 brew cfr-decompiler
 brew coreutils
 brew dex2jar
@@ -12,12 +14,19 @@ brew ghostscript
 brew git
 brew hashcat
 brew jpeg
+brew libimobiledevice
+brew libplist
 brew libpng
+brew libtasn1
 brew libtiff
+brew libtool
+brew libusb
+brew libxml2
 brew mas
 brew openssl
 brew p7zip
 brew pcre2
+brew pkg-config
 brew python
 brew python@2
 brew readline
@@ -25,6 +34,7 @@ brew sbt
 brew scala
 brew sqlite
 brew trash
+brew usbmuxd
 brew wxmac
 brew wxpython
 brew xz
