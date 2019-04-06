@@ -7,12 +7,14 @@ brew apktool
 brew autoconf
 brew automake
 brew autopsy
+brew bison
 brew boost
 brew bulk_extractor
 brew cfr-decompiler
 brew coreutils
 brew ddrescue
 brew dex2jar
+brew flex
 brew fontconfig
 brew foremost
 brew freetype
@@ -31,6 +33,7 @@ brew icu4c
 brew jansson
 brew jasper
 brew jpeg
+brew libevent
 brew libewf
 brew libffi
 brew libimobiledevice
@@ -67,6 +70,9 @@ brew sqlcipher
 brew sqlite
 brew sshfs
 brew trash
+brew ucl
+brew unbound
+brew upx
 brew usbmuxd
 brew vde
 brew volatility
@@ -95,18 +101,19 @@ cask cmake
 cask db-browser-for-sqlite
 cask dotnet-sdk
 cask emacs
-cask google-backup-and-sync
-cask gpg-suite
-cask impactor
-cask iterm2
-cask kindle
-cask mendeley
-cask mono-mdk
-cask osxfuse
-cask rsyncosx
-cask veracrypt
-cask visual-studio-code
-cask vmware-fusion
+cask fork
+cask google-chrome
+cask idafree
+cask intellij-idea-ce
+cask java
+cask mactex
+cask microsoft-office
+cask musescore
+cask qfinder-pro
+cask sourcetree
+cask visual-studio
+cask vlc
+cask wireshark
 
 tap rcmdnk/file
 brew brew-file
@@ -122,23 +129,23 @@ cask firefox
 cask font-calligraffitti
 cask font-noto-sans
 cask font-raleway
-cask google-chrome
-cask idafree
-cask intellij-idea-ce
-cask java
-cask mactex
-cask microsoft-office
-cask musescore
-cask qfinder-pro
-cask sourcetree
-cask visual-studio
-cask vlc
-cask wireshark
+cask google-backup-and-sync
+cask gpg-suite
+cask impactor
+cask iterm2
+cask kindle
+cask mendeley
+cask mono-mdk
+cask osxfuse
+cask rsyncosx
+cask veracrypt
+cask visual-studio-code
+cask vmware-fusion
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.8.2)
-appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.13.1)
-appstore 409203825 Numbers (5.3)
-appstore 409201541 Pages (7.3)
-appstore 497799835 Xcode (10.1)
+appstore 1037126344 Apple Configurator 2 (2.9)
+appstore 409183694 Keynote (9.0)
+appstore 539883307 LINE (5.15.0)
+appstore 409203825 Numbers (6.0)
+appstore 409201541 Pages (8.0)
+appstore 497799835 Xcode (10.2)
