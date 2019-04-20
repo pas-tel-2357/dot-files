@@ -91,7 +91,6 @@ cask font-open-sans
 cask font-roboto
 
 tap homebrew/cask-versions
-cask java8
 
 tap homebrew/cask
 cask 010-editor
@@ -106,14 +105,14 @@ cask google-chrome
 cask idafree
 cask intellij-idea-ce
 cask java
-cask mactex
-cask microsoft-office
-cask musescore
-cask qfinder-pro
-cask sourcetree
-cask visual-studio
-cask vlc
-cask wireshark
+cask kindle
+cask mendeley
+cask mono-mdk
+cask osxfuse
+cask rsyncosx
+cask veracrypt
+cask visual-studio-code
+cask vmware-fusion
 
 tap rcmdnk/file
 brew brew-file
@@ -133,14 +132,15 @@ cask google-backup-and-sync
 cask gpg-suite
 cask impactor
 cask iterm2
-cask kindle
-cask mendeley
-cask mono-mdk
-cask osxfuse
-cask rsyncosx
-cask veracrypt
-cask visual-studio-code
-cask vmware-fusion
+cask java8
+cask mactex
+cask microsoft-office
+cask musescore
+cask qfinder-pro
+cask sourcetree
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
@@ -148,4 +148,4 @@ appstore 409183694 Keynote (9.0.1)
 appstore 539883307 LINE (5.15.0)
 appstore 409203825 Numbers (6.0)
 appstore 409201541 Pages (8.0)
-appstore 497799835 Xcode (10.2)
+appstore 497799835 Xcode (10.2.1)
