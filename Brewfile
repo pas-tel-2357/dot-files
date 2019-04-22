@@ -66,6 +66,7 @@ brew readline
 brew sbt
 brew scala
 brew sleuthkit
+brew sphinx-doc
 brew sqlcipher
 brew sqlite
 brew sshfs
@@ -85,9 +86,9 @@ brew yara
 tap homebrew/cask-drivers
 
 tap homebrew/cask-fonts
-cask font-myrica
-cask font-open-sans
-cask font-roboto
+cask font-calligraffitti
+cask font-noto-sans
+cask font-raleway
 
 tap homebrew/cask-versions
 
@@ -98,14 +99,14 @@ cask aquaskk
 cask cmake
 cask db-browser-for-sqlite
 cask dotnet-sdk
-cask emacs
+cask firefox
 cask fork
 cask google-chrome
 cask idafree
 cask intellij-idea-ce
 cask java
-cask kindle
-cask mendeley
+cask kext-utility
+cask mactex
 cask mono-mdk
 cask osxfuse
 cask rsyncosx
@@ -122,16 +123,17 @@ cask android-studio
 cask arduino
 cask cutter
 cask docker
-cask firefox
-cask font-calligraffitti
-cask font-noto-sans
-cask font-raleway
+cask emacs
+cask font-myrica
+cask font-open-sans
+cask font-roboto
 cask google-backup-and-sync
 cask gpg-suite
 cask impactor
 cask iterm2
 cask java8
-cask mactex
+cask kindle
+cask mendeley
 cask musescore
 cask qfinder-pro
 cask sourcetree
@@ -140,9 +142,9 @@ cask vlc
 cask wireshark
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.9)
-appstore 409183694 Keynote (9.0.1)
-appstore 539883307 LINE (5.15.0)
-appstore 409203825 Numbers (6.0)
-appstore 409201541 Pages (8.0)
-appstore 497799835 Xcode (10.2.1)
+appstore 1037126344 com.apple.configurator.ui (2.9)
+appstore 497799835 com.apple.dt.Xcode (10.2.1)
+appstore 409183694 com.apple.iWork.Keynote (9.0.1)
+appstore 409203825 com.apple.iWork.Numbers (6.0)
+appstore 409201541 com.apple.iWork.Pages (8.0)
+appstore 539883307 jp.naver.line.mac (5.15.0)
