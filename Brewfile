@@ -85,7 +85,6 @@ brew yara
 tap homebrew/cask-drivers
 
 tap homebrew/cask-fonts
-cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
 cask font-roboto
@@ -123,7 +122,6 @@ cask android-studio
 cask arduino
 cask cutter
 cask docker
-cask doxygen
 cask firefox
 cask font-calligraffitti
 cask font-noto-sans
@@ -134,7 +132,6 @@ cask impactor
 cask iterm2
 cask java8
 cask mactex
-cask microsoft-office
 cask musescore
 cask qfinder-pro
 cask sourcetree
