@@ -7,15 +7,18 @@ brew apktool
 brew autoconf
 brew automake
 brew autopsy
+brew bison
 brew boost
 brew bulk_extractor
 brew cfr-decompiler
 brew coreutils
 brew ddrescue
 brew dex2jar
+brew flex
 brew fontconfig
 brew foremost
 brew freetype
+brew gcc
 brew gd
 brew gdbm
 brew gettext
@@ -28,6 +31,7 @@ brew graphviz
 brew gts
 brew hashcat
 brew icu4c
+brew isl
 brew jansson
 brew jasper
 brew jpeg
@@ -36,6 +40,7 @@ brew libewf
 brew libffi
 brew libimobiledevice
 brew libmagic
+brew libmpc
 brew libplist
 brew libpng
 brew libpq
@@ -47,6 +52,7 @@ brew libunistring
 brew libusb
 brew libxml2
 brew mas
+brew mpfr
 brew ncurses
 brew netpbm
 brew nettle
@@ -57,6 +63,9 @@ brew pcre
 brew pcre2
 brew pixman
 brew pkg-config
+brew protobuf
+brew pyenv
+brew pyenv-virtualenvwrapper
 brew python
 brew python@2
 brew qemu
@@ -68,7 +77,9 @@ brew sqlcipher
 brew sqlite
 brew sshfs
 brew trash
+brew ucl
 brew unbound
+brew upx
 brew usbmuxd
 brew vde
 brew volatility
@@ -103,12 +114,11 @@ cask intellij-idea-ce
 cask java
 cask kindle
 cask mendeley
-cask mono-mdk
-cask osxfuse
-cask sourcetree
-cask visual-studio
-cask vlc
-cask wireshark
+cask musescore
+cask rsyncosx
+cask veracrypt
+cask visual-studio-code
+cask vmware-fusion
 
 tap rcmdnk/file
 brew brew-file
@@ -130,17 +140,17 @@ cask impactor
 cask iterm2
 cask java8
 cask mactex
-cask microsoft-office
-cask musescore
-cask rsyncosx
-cask veracrypt
-cask visual-studio-code
-cask vmware-fusion
+cask mono-mdk
+cask osxfuse
+cask sourcetree
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
-appstore 409183694 Keynote (9.0.1)
-appstore 539883307 LINE (5.16.0)
+appstore 409183694 Keynote (9.0.2)
+appstore 539883307 LINE (5.16.2)
 appstore 409203825 Numbers (6.0)
 appstore 409201541 Pages (8.0)
 appstore 497799835 Xcode (10.2.1)
