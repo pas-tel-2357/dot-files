@@ -92,10 +92,9 @@ brew yara
 tap homebrew/cask-drivers
 
 tap homebrew/cask-fonts
-cask font-bebas-neue
-cask font-myrica
-cask font-open-sans
-cask font-roboto
+cask font-calligraffitti
+cask font-noto-sans
+cask font-raleway
 
 tap homebrew/cask-versions
 
@@ -116,9 +115,10 @@ cask kindle
 cask mendeley
 cask musescore
 cask rsyncosx
-cask veracrypt
-cask visual-studio-code
-cask vmware-fusion
+cask sourcetree
+cask visual-studio
+cask vlc
+cask wireshark
 
 tap rcmdnk/file
 brew brew-file
@@ -131,9 +131,10 @@ cask cutter
 cask docker
 cask doxygen
 cask firefox
-cask font-calligraffitti
-cask font-noto-sans
-cask font-raleway
+cask font-bebas-neue
+cask font-myrica
+cask font-open-sans
+cask font-roboto
 cask google-backup-and-sync
 cask gpg-suite
 cask impactor
@@ -142,10 +143,10 @@ cask java8
 cask mactex
 cask mono-mdk
 cask osxfuse
-cask sourcetree
-cask visual-studio
-cask vlc
-cask wireshark
+cask sdformatter
+cask veracrypt
+cask visual-studio-code
+cask vmware-fusion
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
