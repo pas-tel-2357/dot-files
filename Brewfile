@@ -56,6 +56,8 @@ brew mpfr
 brew ncurses
 brew netpbm
 brew nettle
+brew numpy
+brew openblas
 brew openssl
 brew p11-kit
 brew p7zip
@@ -90,6 +92,7 @@ brew xz
 brew yara
 
 tap homebrew/cask-drivers
+cask synologyassistant
 
 tap homebrew/cask-fonts
 cask font-calligraffitti
@@ -101,11 +104,12 @@ tap homebrew/cask-versions
 tap homebrew/cask
 cask 010-editor
 cask adobe-air
-cask aquaskk
-cask cmake
-cask db-browser-for-sqlite
-cask dotnet-sdk
-cask emacs
+cask appcleaner
+cask arduino
+cask cutter
+cask docker
+cask doxygen
+cask firefox
 cask fork
 cask google-chrome
 cask idafree
@@ -126,11 +130,11 @@ brew brew-file
 # Other Cask applications
 cask adobe-acrobat-reader
 cask android-studio
-cask arduino
-cask cutter
-cask docker
-cask doxygen
-cask firefox
+cask aquaskk
+cask cmake
+cask db-browser-for-sqlite
+cask dotnet-sdk
+cask emacs
 cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
