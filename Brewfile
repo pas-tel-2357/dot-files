@@ -106,10 +106,10 @@ cask 010-editor
 cask adobe-air
 cask appcleaner
 cask arduino
-cask cutter
-cask docker
-cask doxygen
-cask firefox
+cask cmake
+cask db-browser-for-sqlite
+cask dotnet-sdk
+cask emacs
 cask fork
 cask google-chrome
 cask idafree
@@ -119,10 +119,9 @@ cask kindle
 cask mendeley
 cask musescore
 cask rsyncosx
-cask sourcetree
-cask visual-studio
-cask vlc
-cask wireshark
+cask veracrypt
+cask visual-studio-code
+cask vmware-fusion
 
 tap rcmdnk/file
 brew brew-file
@@ -131,10 +130,11 @@ brew brew-file
 cask adobe-acrobat-reader
 cask android-studio
 cask aquaskk
-cask cmake
-cask db-browser-for-sqlite
-cask dotnet-sdk
-cask emacs
+cask balenaetcher
+cask cutter
+cask docker
+cask doxygen
+cask firefox
 cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
@@ -148,9 +148,9 @@ cask mactex
 cask mono-mdk
 cask osxfuse
 cask sdformatter
-cask veracrypt
-cask visual-studio-code
-cask vmware-fusion
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
