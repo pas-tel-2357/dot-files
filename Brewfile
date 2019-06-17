@@ -119,10 +119,9 @@ cask kindle
 cask mendeley
 cask musescore
 cask rsyncosx
-cask sourcetree
-cask visual-studio
-cask vlc
-cask wireshark
+cask veracrypt
+cask visual-studio-code
+cask vmware-fusion
 
 tap rcmdnk/file
 brew brew-file
@@ -149,9 +148,9 @@ cask mactex
 cask mono-mdk
 cask osxfuse
 cask sdformatter
-cask veracrypt
-cask visual-studio-code
-cask vmware-fusion
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
