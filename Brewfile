@@ -51,6 +51,7 @@ brew libtool
 brew libunistring
 brew libusb
 brew libxml2
+brew lzo
 brew mas
 brew mpfr
 brew ncurses
