@@ -120,9 +120,9 @@ cask kindle
 cask mendeley
 cask musescore
 cask rsyncosx
-cask veracrypt
-cask visual-studio-code
-cask vmware-fusion
+cask visual-studio
+cask vlc
+cask wireshark
 
 tap rcmdnk/file
 brew brew-file
@@ -148,15 +148,14 @@ cask java8
 cask mactex
 cask mono-mdk
 cask osxfuse
-cask sdformatter
-cask visual-studio
-cask vlc
-cask wireshark
+cask veracrypt
+cask visual-studio-code
+cask vmware-fusion
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
 appstore 409183694 Keynote (9.0.2)
-appstore 539883307 LINE (5.17.2)
+appstore 539883307 LINE (5.17.1)
 appstore 409203825 Numbers (6.0)
 appstore 409201541 Pages (8.0)
 appstore 497799835 Xcode (10.2.1)
