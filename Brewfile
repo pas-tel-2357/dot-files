@@ -27,6 +27,7 @@ brew git
 brew glib
 brew gmp
 brew gnutls
+brew gradle
 brew graphviz
 brew gts
 brew hashcat
