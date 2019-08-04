@@ -102,6 +102,7 @@ cask font-noto-sans
 cask font-raleway
 
 tap homebrew/cask-versions
+cask tunnelblick-beta
 
 tap homebrew/cask
 cask 010-editor
@@ -113,14 +114,16 @@ cask db-browser-for-sqlite
 cask dotnet-sdk
 cask emacs
 cask fork
-cask google-chrome
-cask idafree
+cask google-backup-and-sync
+cask gpg-suite
+cask iexplorer
 cask intellij-idea-ce
 cask java
 cask kindle
 cask mendeley
 cask musescore
 cask rsyncosx
+cask virtualbox
 cask visual-studio
 cask vlc
 cask wireshark
@@ -141,8 +144,9 @@ cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
 cask font-roboto
-cask google-backup-and-sync
-cask gpg-suite
+cask genymotion
+cask google-chrome
+cask idafree
 cask impactor
 cask iterm2
 cask java8
@@ -150,6 +154,7 @@ cask mactex
 cask mono-mdk
 cask osxfuse
 cask veracrypt
+cask virtualbox-extension-pack
 cask visual-studio-code
 cask vmware-fusion
 
