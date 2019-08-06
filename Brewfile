@@ -33,6 +33,7 @@ brew gts
 brew hashcat
 brew icu4c
 brew isl
+brew jadx
 brew jansson
 brew jasper
 brew jpeg
