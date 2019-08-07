@@ -40,6 +40,7 @@ brew jpeg
 brew libevent
 brew libewf
 brew libffi
+brew libidn2
 brew libimobiledevice
 brew libmagic
 brew libmpc
