@@ -47,6 +47,7 @@ brew libmpc
 brew libplist
 brew libpng
 brew libpq
+brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
