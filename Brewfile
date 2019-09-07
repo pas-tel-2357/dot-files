@@ -169,7 +169,7 @@ cask vmware-fusion
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
 appstore 409183694 Keynote (9.1)
-appstore 539883307 LINE (5.18.3)
+appstore 539883307 LINE (5.19.0)
 appstore 409203825 Numbers (6.1)
 appstore 409201541 Pages (8.1)
 appstore 497799835 Xcode (10.3)
