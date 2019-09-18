@@ -106,39 +106,12 @@ cask font-noto-sans
 cask font-raleway
 
 tap homebrew/cask-versions
+cask adoptopenjdk8
 cask tunnelblick-beta
 
 tap homebrew/cask
 cask 010-editor
 cask adobe-air
-cask appcleaner
-cask arduino
-cask binary-ninja
-cask cutter
-cask docker
-cask doxygen
-cask firefox
-cask fork
-cask ghidra
-cask google-chrome
-cask idafree
-cask impactor
-cask iterm2
-cask kindle
-cask mendeley
-cask musescore
-cask realm-studio
-cask slack
-cask virtualbox
-cask visual-studio
-cask vlc
-cask wireshark
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Cask applications
-cask adobe-acrobat-reader
 cask android-studio
 cask aquaskk
 cask balenaetcher
@@ -146,6 +119,34 @@ cask cmake
 cask db-browser-for-sqlite
 cask dotnet-sdk
 cask emacs
+cask fork
+cask ghidra
+cask google-chrome
+cask idafree
+cask impactor
+cask iterm2
+cask mactex
+cask mono-mdk
+cask osxfuse
+cask rsyncosx
+cask veracrypt
+cask virtualbox-extension-pack
+cask visual-studio-code
+cask vmware-fusion
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
+cask adobe-acrobat-reader
+cask adoptopenjdk
+cask appcleaner
+cask arduino
+cask binary-ninja
+cask cutter
+cask docker
+cask doxygen
+cask firefox
 cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
@@ -155,16 +156,15 @@ cask google-backup-and-sync
 cask gpg-suite
 cask iexplorer
 cask intellij-idea-ce
-cask java
-cask java8
-cask mactex
-cask mono-mdk
-cask osxfuse
-cask rsyncosx
-cask veracrypt
-cask virtualbox-extension-pack
-cask visual-studio-code
-cask vmware-fusion
+cask kindle
+cask mendeley
+cask musescore
+cask realm-studio
+cask slack
+cask virtualbox
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.9)
