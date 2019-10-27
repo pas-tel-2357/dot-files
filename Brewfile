@@ -167,9 +167,9 @@ cask vlc
 cask wireshark
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.11)
+appstore 1037126344 Apple Configurator 2 (2.11.1)
 appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.19.0)
+appstore 539883307 LINE (5.19.1)
 appstore 409203825 Numbers (6.2)
 appstore 409201541 Pages (8.2)
 appstore 497799835 Xcode (11.1)
