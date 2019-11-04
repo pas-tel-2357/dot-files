@@ -115,10 +115,10 @@ cask adobe-air
 cask android-studio
 cask aquaskk
 cask balenaetcher
-cask cutter
-cask docker
-cask doxygen
-cask firefox
+cask cmake
+cask db-browser-for-sqlite
+cask dotnet-sdk
+cask emacs
 cask fork
 cask ghidra
 cask google-chrome
@@ -142,10 +142,11 @@ cask adobe-acrobat-reader
 cask adoptopenjdk
 cask appcleaner
 cask arduino
-cask cmake
-cask db-browser-for-sqlite
-cask dotnet-sdk
-cask emacs
+cask binary-ninja
+cask cutter
+cask docker
+cask doxygen
+cask firefox
 cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
@@ -168,7 +169,7 @@ cask wireshark
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.11.1)
 appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.20.0)
+appstore 539883307 LINE (5.19.1)
 appstore 409203825 Numbers (6.2)
 appstore 409201541 Pages (8.2)
-appstore 497799835 Xcode (11.2)
+appstore 497799835 Xcode (11.1)
