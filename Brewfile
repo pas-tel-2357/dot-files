@@ -155,7 +155,6 @@ cask gpg-suite
 cask iexplorer
 cask intellij-idea-ce
 cask kindle
-cask mendeley
 cask musescore
 cask realm-studio
 cask slack
