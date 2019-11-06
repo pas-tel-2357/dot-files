@@ -142,7 +142,6 @@ cask adobe-acrobat-reader
 cask adoptopenjdk
 cask appcleaner
 cask arduino
-cask binary-ninja
 cask cutter
 cask docker
 cask doxygen
