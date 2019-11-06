@@ -147,7 +147,6 @@ cask cutter
 cask docker
 cask doxygen
 cask firefox
-cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
 cask font-roboto
