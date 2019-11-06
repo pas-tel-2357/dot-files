@@ -115,10 +115,10 @@ cask adobe-air
 cask android-studio
 cask aquaskk
 cask balenaetcher
-cask cmake
-cask db-browser-for-sqlite
-cask dotnet-sdk
-cask emacs
+cask cutter
+cask docker
+cask doxygen
+cask firefox
 cask fork
 cask ghidra
 cask google-chrome
@@ -142,10 +142,10 @@ cask adobe-acrobat-reader
 cask adoptopenjdk
 cask appcleaner
 cask arduino
-cask cutter
-cask docker
-cask doxygen
-cask firefox
+cask cmake
+cask db-browser-for-sqlite
+cask dotnet-sdk
+cask emacs
 cask font-myrica
 cask font-open-sans
 cask font-roboto
@@ -155,6 +155,7 @@ cask gpg-suite
 cask iexplorer
 cask intellij-idea-ce
 cask kindle
+cask mendeley-desktop
 cask musescore
 cask realm-studio
 cask slack
