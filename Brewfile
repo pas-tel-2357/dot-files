@@ -115,10 +115,10 @@ cask adobe-air
 cask android-studio
 cask aquaskk
 cask balenaetcher
-cask cutter
-cask docker
-cask doxygen
-cask firefox
+cask cmake
+cask db-browser-for-sqlite
+cask dotnet-sdk
+cask emacs
 cask fork
 cask ghidra
 cask google-chrome
@@ -126,35 +126,6 @@ cask idafree
 cask impactor
 cask iterm2
 cask mactex
-cask mono-mdk
-cask osxfuse
-cask rsyncosx
-cask veracrypt
-cask virtualbox-extension-pack
-cask visual-studio-code
-cask vmware-fusion
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Cask applications
-cask adobe-acrobat-reader
-cask adoptopenjdk
-cask appcleaner
-cask arduino
-cask cmake
-cask db-browser-for-sqlite
-cask dotnet-sdk
-cask emacs
-cask font-myrica
-cask font-open-sans
-cask font-roboto
-cask genymotion
-cask google-backup-and-sync
-cask gpg-suite
-cask iexplorer
-cask intellij-idea-ce
-cask kindle
 cask mendeley-desktop
 cask musescore
 cask realm-studio
@@ -164,10 +135,42 @@ cask visual-studio
 cask vlc
 cask wireshark
 
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
+cask adobe-acrobat-reader
+cask adoptopenjdk
+cask appcleaner
+cask arduino
+cask binary-ninja
+cask cutter
+cask docker
+cask doxygen
+cask firefox
+cask font-bebas-neue
+cask font-myrica
+cask font-open-sans
+cask font-roboto
+cask genymotion
+cask google-backup-and-sync
+cask gpg-suite
+cask iexplorer
+cask intellij-idea-ce
+cask kindle
+cask mendeley
+cask mono-mdk
+cask osxfuse
+cask rsyncosx
+cask veracrypt
+cask virtualbox-extension-pack
+cask visual-studio-code
+cask vmware-fusion
+
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.11.1)
 appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.20.1)
+appstore 539883307 LINE (5.20.0)
 appstore 409203825 Numbers (6.2)
 appstore 409201541 Pages (8.2)
 appstore 497799835 Xcode (11.2)
