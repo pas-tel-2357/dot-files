@@ -147,7 +147,6 @@ cask cmake
 cask db-browser-for-sqlite
 cask dotnet-sdk
 cask emacs
-cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
 cask font-roboto
@@ -157,7 +156,6 @@ cask gpg-suite
 cask iexplorer
 cask intellij-idea-ce
 cask kindle
-cask mendeley
 cask mono-mdk
 cask osxfuse
 cask rsyncosx
