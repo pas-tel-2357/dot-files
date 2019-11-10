@@ -126,14 +126,13 @@ cask idafree
 cask impactor
 cask iterm2
 cask mactex
-cask mendeley-desktop
-cask musescore
-cask realm-studio
-cask slack
-cask virtualbox
-cask visual-studio
-cask vlc
-cask wireshark
+cask mono-mdk
+cask osxfuse
+cask rsyncosx
+cask veracrypt
+cask virtualbox-extension-pack
+cask visual-studio-code
+cask vmware-fusion
 
 tap rcmdnk/file
 brew brew-file
@@ -156,18 +155,19 @@ cask gpg-suite
 cask iexplorer
 cask intellij-idea-ce
 cask kindle
-cask mono-mdk
-cask osxfuse
-cask rsyncosx
-cask veracrypt
-cask virtualbox-extension-pack
-cask visual-studio-code
-cask vmware-fusion
+cask mendeley-desktop
+cask musescore
+cask realm-studio
+cask slack
+cask virtualbox
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.11.1)
 appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.20.0)
+appstore 539883307 LINE (5.20.1)
 appstore 409203825 Numbers (6.2)
 appstore 409201541 Pages (8.2)
 appstore 497799835 Xcode (11.2)
