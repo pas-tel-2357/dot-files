@@ -147,7 +147,6 @@ cask cmake
 cask db-browser-for-sqlite
 cask dotnet-sdk
 cask emacs
-cask font-bebas-neue
 cask font-myrica
 cask font-open-sans
 cask font-roboto
