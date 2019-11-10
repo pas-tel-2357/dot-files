@@ -156,7 +156,6 @@ cask gpg-suite
 cask iexplorer
 cask intellij-idea-ce
 cask kindle
-cask mendeley
 cask mono-mdk
 cask osxfuse
 cask rsyncosx
