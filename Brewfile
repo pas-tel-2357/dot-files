@@ -37,6 +37,7 @@ brew jadx
 brew jansson
 brew jasper
 brew jpeg
+brew jq
 brew libevent
 brew libewf
 brew libffi
@@ -62,6 +63,7 @@ brew ncurses
 brew netpbm
 brew nettle
 brew numpy
+brew oniguruma
 brew openblas
 brew openssl
 brew openssl@1.1
