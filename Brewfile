@@ -55,6 +55,7 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libusb
+brew libusbmuxd
 brew libxml2
 brew lzo
 brew mas
@@ -90,7 +91,6 @@ brew trash
 brew ucl
 brew unbound
 brew upx
-brew usbmuxd
 brew vde
 brew volatility
 brew webp
