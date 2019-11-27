@@ -126,16 +126,16 @@ cask fork
 cask ghidra
 cask google-chrome
 cask idafree
-cask intellij-idea-ce
-cask kindle
-cask mendeley-desktop
-cask musescore
-cask realm-studio
-cask slack
-cask virtualbox
-cask visual-studio
-cask vlc
-cask wireshark
+cask impactor
+cask iterm2
+cask mactex
+cask mono-mdk
+cask osxfuse
+cask rsyncosx
+cask veracrypt
+cask virtualbox-extension-pack
+cask visual-studio-code
+cask vmware-fusion
 
 tap rcmdnk/file
 brew brew-file
@@ -156,16 +156,16 @@ cask genymotion
 cask google-backup-and-sync
 cask gpg-suite
 cask iexplorer
-cask impactor
-cask iterm2
-cask mactex
-cask mono-mdk
-cask osxfuse
-cask rsyncosx
-cask veracrypt
-cask virtualbox-extension-pack
-cask visual-studio-code
-cask vmware-fusion
+cask intellij-idea-ce
+cask kindle
+cask mendeley-desktop
+cask musescore
+cask realm-studio
+cask slack
+cask virtualbox
+cask visual-studio
+cask vlc
+cask wireshark
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.11.1)
