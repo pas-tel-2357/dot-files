@@ -116,13 +116,13 @@ cask tunnelblick-beta
 tap homebrew/cask
 cask 010-editor
 cask adobe-air
-cask appcleaner
-cask arduino
-cask checkra1n
-cask cutter
-cask docker
-cask doxygen
-cask firefox
+cask android-studio
+cask aquaskk
+cask balenaetcher
+cask cmake
+cask db-browser-for-sqlite
+cask dotnet-sdk
+cask emacs
 cask fork
 cask ghidra
 cask google-chrome
@@ -143,13 +143,14 @@ brew brew-file
 
 # Other Cask applications
 cask adobe-acrobat-reader
-cask android-studio
-cask aquaskk
-cask balenaetcher
-cask cmake
-cask db-browser-for-sqlite
-cask dotnet-sdk
-cask emacs
+cask adoptopenjdk
+cask appcleaner
+cask arduino
+cask checkra1n
+cask cutter
+cask docker
+cask doxygen
+cask firefox
 cask font-myrica
 cask font-open-sans
 cask font-roboto
