@@ -137,6 +137,7 @@ cask veracrypt
 cask virtualbox-extension-pack
 cask visual-studio-code
 cask vmware-fusion
+cask xquartz
 
 tap rcmdnk/file
 brew brew-file
