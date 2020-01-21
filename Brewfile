@@ -151,6 +151,7 @@ cask mendeley-desktop
 cask mono-mdk
 cask musescore
 cask osxfuse
+cask powershell
 cask realm-studio
 cask rsyncosx
 cask slack
