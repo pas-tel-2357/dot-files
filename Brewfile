@@ -79,7 +79,6 @@ brew protobuf
 brew pyenv
 brew pyenv-virtualenvwrapper
 brew python
-brew python@2
 brew qemu
 brew readline
 brew sbt
@@ -114,7 +113,6 @@ cask font-roboto
 tap homebrew/cask-versions
 cask adoptopenjdk8
 cask java11
-cask tunnelblick-beta
 
 tap homebrew/cask
 cask 010-editor
@@ -132,7 +130,6 @@ cask db-browser-for-sqlite
 cask docker
 cask dotnet-sdk
 cask doxygen
-cask emacs
 cask firefox
 cask fork
 cask genymotion
@@ -142,6 +139,7 @@ cask google-chrome
 cask gpg-suite
 cask idafree
 cask iexplorer
+cask ifunbox
 cask impactor
 cask intellij-idea-ce
 cask iterm2
