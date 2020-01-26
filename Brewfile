@@ -114,7 +114,6 @@ cask font-roboto
 tap homebrew/cask-versions
 cask adoptopenjdk8
 cask java11
-cask tunnelblick-beta
 
 tap homebrew/cask
 cask 010-editor
@@ -132,7 +131,6 @@ cask db-browser-for-sqlite
 cask docker
 cask dotnet-sdk
 cask doxygen
-cask emacs
 cask firefox
 cask fork
 cask genymotion
