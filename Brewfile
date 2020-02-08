@@ -165,6 +165,7 @@ cask wireshark
 cask xquartz
 
 tap rcmdnk/file
+brew brew-file
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.11.1)
