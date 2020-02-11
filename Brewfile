@@ -80,7 +80,6 @@ brew protobuf
 brew pyenv
 brew pyenv-virtualenvwrapper
 brew python
-brew python@2
 brew qemu
 brew readline
 brew sbt
@@ -167,6 +166,9 @@ cask xquartz
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew python@2
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.11.1)
