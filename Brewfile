@@ -68,7 +68,6 @@ brew nettle
 brew numpy
 brew oniguruma
 brew openblas
-brew openjdk
 brew openssl@1.1
 brew p11-kit
 brew p7zip
@@ -112,8 +111,6 @@ cask font-raleway
 cask font-roboto
 
 tap homebrew/cask-versions
-cask adoptopenjdk8
-cask java11
 
 tap homebrew/cask
 cask 010-editor
@@ -163,6 +160,9 @@ cask vlc
 cask vmware-fusion
 cask wireshark
 cask xquartz
+
+tap adoptopenjdk/openjdk
+cask adoptopenjdk11
 
 tap rcmdnk/file
 brew brew-file
