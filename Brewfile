@@ -68,6 +68,7 @@ brew nettle
 brew numpy
 brew oniguruma
 brew openblas
+brew openjdk
 brew openssl@1.1
 brew p11-kit
 brew p7zip
