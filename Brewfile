@@ -40,6 +40,7 @@ brew jansson
 brew jasper
 brew jpeg
 brew jq
+brew krb5
 brew libevent
 brew libewf
 brew libffi
