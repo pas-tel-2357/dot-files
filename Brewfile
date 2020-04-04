@@ -175,10 +175,10 @@ brew python@2
 cask mendeley-desktop
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.11.1)
-appstore 409183694 Keynote (9.2.1)
+appstore 1037126344 Apple Configurator 2 (2.12.1)
+appstore 409183694 Keynote (10.0)
 appstore 539883307 LINE (5.23.0)
 appstore 1295203466 Microsoft Remote Desktop (10.3.8)
-appstore 409203825 Numbers (6.2.1)
-appstore 409201541 Pages (8.2.1)
+appstore 409203825 Numbers (10.0)
+appstore 409201541 Pages (10.0)
 appstore 497799835 Xcode (11.4)
