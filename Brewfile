@@ -162,6 +162,7 @@ cask vlc
 cask vmware-fusion
 cask wireshark
 cask xquartz
+cask zoomus
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk11
