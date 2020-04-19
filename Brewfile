@@ -180,7 +180,7 @@ cask mendeley-desktop
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.12.1)
 appstore 409183694 Keynote (10.0)
-appstore 539883307 LINE (5.24.0)
+appstore 539883307 LINE (5.24.1)
 appstore 1295203466 Microsoft Remote Desktop (10.3.9)
 appstore 409203825 Numbers (10.0)
 appstore 409201541 Pages (10.0)
