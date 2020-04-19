@@ -132,7 +132,6 @@ cask docker
 cask dotnet-sdk
 cask doxygen
 cask firefox
-cask folding-at-home
 cask fork
 cask genymotion
 cask ghidra
