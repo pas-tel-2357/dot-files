@@ -12,6 +12,7 @@ brew bash-completion
 brew bison
 brew boost
 brew bulk_extractor
+brew cairo
 brew cfr-decompiler
 brew coreutils
 brew ddrescue
@@ -20,6 +21,7 @@ brew flex
 brew fontconfig
 brew foremost
 brew freetype
+brew fribidi
 brew gcc
 brew gd
 brew gdbm
@@ -30,8 +32,10 @@ brew glib
 brew gmp
 brew gnutls
 brew gradle
+brew graphite2
 brew graphviz
 brew gts
+brew harfbuzz
 brew hashcat
 brew icu4c
 brew isl
@@ -73,6 +77,7 @@ brew openjdk
 brew openssl@1.1
 brew p11-kit
 brew p7zip
+brew pango
 brew pcre
 brew pcre2
 brew pixman
