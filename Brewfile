@@ -119,6 +119,8 @@ cask font-raleway
 cask font-roboto
 
 tap homebrew/cask-versions
+cask adoptopenjdk8
+cask java11
 
 tap homebrew/cask
 cask 010-editor
