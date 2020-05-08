@@ -118,6 +118,8 @@ cask font-open-sans
 cask font-raleway
 cask font-roboto
 
+tap homebrew/cask-versions
+
 tap homebrew/cask
 cask 010-editor
 cask adobe-acrobat-reader
