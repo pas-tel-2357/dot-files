@@ -92,6 +92,7 @@ brew readline
 brew sbt
 brew scala
 brew sleuthkit
+brew snappy
 brew sqlcipher
 brew sqlite
 brew sshfs
