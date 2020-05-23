@@ -115,11 +115,9 @@ tap homebrew/cask-fonts
 cask font-calligraffitti
 cask font-myrica
 cask font-noto-sans
-cask font-open-sans
-cask font-raleway
-cask font-roboto
 
 tap homebrew/cask-versions
+cask mono-mdk-for-visual-studio
 
 tap homebrew/cask
 cask 010-editor
@@ -144,7 +142,6 @@ cask ghidra
 cask google-backup-and-sync
 cask google-chrome
 cask gpg-suite
-cask idafree
 cask iexplorer
 cask ifunbox
 cask impactor
@@ -152,7 +149,7 @@ cask intellij-idea-ce
 cask iterm2
 cask kindle
 cask mactex
-cask mono-mdk
+cask mendeley
 cask musescore
 cask osxfuse
 cask powershell
@@ -176,17 +173,13 @@ cask adoptopenjdk11
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew python@2
-
-# Other Cask applications
-cask mendeley-desktop
-
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.12.1)
-appstore 409183694 Keynote (10.0)
+appstore 682658836 GarageBand (10.3.4)
+appstore 408981434 iMovie (10.1.14)
+appstore 409183694 Keynote (9.2.1)
 appstore 539883307 LINE (5.24.1)
 appstore 1295203466 Microsoft Remote Desktop (10.3.11)
-appstore 409203825 Numbers (10.0)
-appstore 409201541 Pages (10.0)
-appstore 497799835 Xcode (11.4.1)
+appstore 409203825 Numbers (6.2.1)
+appstore 409201541 Pages (8.2.1)
+appstore 497799835 Xcode (11.5)
