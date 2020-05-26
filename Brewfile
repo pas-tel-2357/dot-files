@@ -115,6 +115,9 @@ tap homebrew/cask-fonts
 cask font-calligraffitti
 cask font-myrica
 cask font-noto-sans
+cask font-open-sans
+cask font-raleway
+cask font-roboto
 
 tap homebrew/cask-versions
 cask mono-mdk-for-visual-studio
@@ -142,6 +145,7 @@ cask ghidra
 cask google-backup-and-sync
 cask google-chrome
 cask gpg-suite
+cask idafree
 cask iexplorer
 cask ifunbox
 cask impactor
@@ -172,6 +176,9 @@ cask adoptopenjdk11
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew python@2
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.12.1)
