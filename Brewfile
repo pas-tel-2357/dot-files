@@ -83,6 +83,7 @@ brew pcre2
 brew pixman
 brew pkg-config
 brew protobuf
+brew protobuf-c
 brew pyenv
 brew pyenv-virtualenvwrapper
 brew python
@@ -182,7 +183,7 @@ appstore 1037126344 Apple Configurator 2 (2.12.1)
 appstore 682658836 GarageBand (10.3.4)
 appstore 408981434 iMovie (10.1.14)
 appstore 409183694 Keynote (10.0)
-appstore 539883307 LINE (6.0.2)
+appstore 539883307 LINE (6.0.3)
 appstore 1295203466 Microsoft Remote Desktop (10.3.11)
 appstore 409203825 Numbers (10.0)
 appstore 409201541 Pages (10.0)
