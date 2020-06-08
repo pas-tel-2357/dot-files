@@ -85,6 +85,7 @@ brew pkg-config
 brew protobuf
 brew protobuf-c
 brew pyenv
+brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew python
 brew python@3.8
