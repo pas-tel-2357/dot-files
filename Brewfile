@@ -117,9 +117,6 @@ tap homebrew/cask-fonts
 cask font-calligraffitti
 cask font-myrica
 cask font-noto-sans
-cask font-open-sans
-cask font-raleway
-cask font-roboto
 
 tap homebrew/cask-versions
 cask mono-mdk-for-visual-studio
