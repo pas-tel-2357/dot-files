@@ -64,6 +64,7 @@ brew libunistring
 brew libusb
 brew libusbmuxd
 brew libxml2
+brew llvm
 brew lzo
 brew mas
 brew mpfr
@@ -90,6 +91,7 @@ brew pyenv-virtualenvwrapper
 brew python
 brew python@3.8
 brew qemu
+brew radare2
 brew readline
 brew sbt
 brew scala
