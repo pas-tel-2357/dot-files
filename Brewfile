@@ -141,6 +141,7 @@ cask dotnet-sdk
 cask doxygen
 cask firefox
 cask fork
+cask geekbench
 cask genymotion
 cask ghidra
 cask google-backup-and-sync
