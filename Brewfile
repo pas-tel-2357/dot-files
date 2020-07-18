@@ -126,6 +126,7 @@ tap homebrew/cask
 cask 010-editor
 cask adobe-acrobat-reader
 cask adobe-air
+cask altdeploy
 cask android-studio
 cask appcleaner
 cask aquaskk
@@ -151,6 +152,7 @@ cask iexplorer
 cask ifunbox
 cask impactor
 cask intellij-idea-ce
+cask ios-app-signer
 cask iterm2
 cask kindle
 cask mactex
@@ -187,4 +189,4 @@ appstore 539883307 LINE (6.1.0)
 appstore 1295203466 Microsoft Remote Desktop (10.3.12)
 appstore 409203825 Numbers (10.1)
 appstore 409201541 Pages (10.1)
-appstore 497799835 Xcode (11.5)
+appstore 497799835 Xcode (11.6)
