@@ -127,6 +127,7 @@ cask 010-editor
 cask adobe-acrobat-reader
 cask adobe-air
 cask altdeploy
+cask altserver
 cask android-studio
 cask appcleaner
 cask aquaskk
