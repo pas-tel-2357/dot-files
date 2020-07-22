@@ -148,7 +148,6 @@ cask ghidra
 cask google-backup-and-sync
 cask google-chrome
 cask gpg-suite
-cask idafree
 cask iexplorer
 cask ifunbox
 cask impactor
