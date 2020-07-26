@@ -71,6 +71,7 @@ brew mpfr
 brew ncurses
 brew netpbm
 brew nettle
+brew nodebrew
 brew numpy
 brew oniguruma
 brew openblas
