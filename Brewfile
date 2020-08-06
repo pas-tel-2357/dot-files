@@ -31,6 +31,7 @@ brew git
 brew glib
 brew gmp
 brew gnutls
+brew gobject-introspection
 brew gradle
 brew graphite2
 brew graphviz
