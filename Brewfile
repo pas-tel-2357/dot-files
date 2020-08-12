@@ -67,6 +67,7 @@ brew libusbmuxd
 brew libxml2
 brew llvm
 brew lzo
+brew make
 brew mas
 brew mpfr
 brew ncurses
@@ -180,6 +181,9 @@ cask adoptopenjdk11
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew usbmuxd
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.12.1)
