@@ -182,9 +182,6 @@ cask adoptopenjdk11
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew usbmuxd
-
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.12.1)
 appstore 682658836 GarageBand (10.3.5)
