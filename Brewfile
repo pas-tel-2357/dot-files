@@ -160,6 +160,7 @@ cask kindle
 cask mactex
 cask mendeley
 cask musescore
+cask onedrive
 cask osxfuse
 cask powershell
 cask realm-studio
