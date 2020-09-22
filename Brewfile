@@ -9,6 +9,7 @@ brew automake
 brew autopsy
 brew bash
 brew bash-completion
+brew bdw-gc
 brew bison
 brew boost
 brew bulk_extractor
@@ -36,6 +37,7 @@ brew gradle
 brew graphite2
 brew graphviz
 brew gts
+brew guile
 brew harfbuzz
 brew hashcat
 brew icu4c
@@ -184,13 +186,13 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.12.1)
+appstore 1037126344 Apple Configurator 2 (2.13.1)
 appstore 682658836 GarageBand (10.3.5)
-appstore 408981434 iMovie (10.1.14)
+appstore 408981434 iMovie (10.1.15)
 appstore 409183694 Keynote (10.1)
-appstore 539883307 LINE (6.2.1)
+appstore 539883307 LINE (6.3.1)
 appstore 1295203466 Microsoft Remote Desktop (10.4.0)
 appstore 409203825 Numbers (10.1)
 appstore 409201541 Pages (10.1)
 appstore 1429033973 RunCat (8.3.1)
-appstore 497799835 Xcode (11.6)
+appstore 497799835 Xcode (12.0)
