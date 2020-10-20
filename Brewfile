@@ -165,7 +165,6 @@ cask musescore
 cask onedrive
 cask osxfuse
 cask powershell
-cask realm-studio
 cask rsyncosx
 cask slack
 cask veracrypt
@@ -184,6 +183,9 @@ cask adoptopenjdk11
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask realm-studio
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.13.1)
