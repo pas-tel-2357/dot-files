@@ -94,6 +94,7 @@ brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew python@3.8
+brew python@3.9
 brew qemu
 brew radare2
 brew readline
@@ -197,4 +198,4 @@ appstore 1295203466 Microsoft Remote Desktop (10.4.1)
 appstore 409203825 Numbers (10.2)
 appstore 409201541 Pages (10.2)
 appstore 1429033973 RunCat (8.4)
-appstore 497799835 Xcode (12.0.1)
+appstore 497799835 Xcode (12.1)
