@@ -71,10 +71,12 @@ brew llvm
 brew lzo
 brew make
 brew mas
+brew meson
 brew mpfr
 brew ncurses
 brew netpbm
 brew nettle
+brew ninja
 brew nodebrew
 brew numpy
 brew oniguruma
@@ -162,6 +164,7 @@ cask iterm2
 cask kindle
 cask mactex
 cask mendeley
+cask microsoft-auto-update
 cask microsoft-office
 cask musescore
 cask osxfuse
