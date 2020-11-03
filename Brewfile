@@ -162,8 +162,8 @@ cask iterm2
 cask kindle
 cask mactex
 cask mendeley
+cask microsoft-office
 cask musescore
-cask onedrive
 cask osxfuse
 cask powershell
 cask rsyncosx
