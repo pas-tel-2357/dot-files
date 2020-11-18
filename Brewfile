@@ -192,7 +192,7 @@ brew brew-file
 cask realm-studio
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.13.1)
+appstore 1037126344 Apple Configurator 2 (2.13.2)
 appstore 682658836 GarageBand (10.3.5)
 appstore 408981434 iMovie (10.2.1)
 appstore 409183694 Keynote (10.3.5)
