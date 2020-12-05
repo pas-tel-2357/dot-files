@@ -13,6 +13,7 @@ brew bdw-gc
 brew bison
 brew boost
 brew bulk_extractor
+brew c-ares
 brew cairo
 brew cfr-decompiler
 brew coreutils
@@ -45,9 +46,11 @@ brew isl
 brew jadx
 brew jansson
 brew jasper
+brew jemalloc
 brew jpeg
 brew jq
 brew krb5
+brew libev
 brew libevent
 brew libewf
 brew libffi
@@ -76,12 +79,14 @@ brew mpfr
 brew ncurses
 brew netpbm
 brew nettle
+brew nghttp2
 brew ninja
 brew nodebrew
 brew numpy
 brew oniguruma
 brew openblas
 brew openjdk
+brew openjdk@8
 brew openssl@1.1
 brew p11-kit
 brew p7zip
@@ -166,6 +171,7 @@ cask mactex
 cask mendeley
 cask microsoft-auto-update
 cask microsoft-office
+cask mongodb-realm-studio
 cask musescore
 cask osxfuse
 cask powershell
@@ -180,7 +186,7 @@ cask vlc
 cask vmware-fusion
 cask wireshark
 cask xquartz
-cask zoomus
+cask zoom
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk11
@@ -188,17 +194,12 @@ cask adoptopenjdk11
 tap rcmdnk/file
 brew brew-file
 
-# Other Cask applications
-cask realm-studio
-
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.13.2)
+appstore 1037126344 Apple Configurator 2 (2.13.3)
 appstore 682658836 GarageBand (10.3.5)
 appstore 408981434 iMovie (10.2.1)
-appstore 409183694 Keynote (10.3.5)
+appstore 409183694 Keynote (10.3.8)
 appstore 539883307 LINE (6.4.0)
-appstore 1295203466 Microsoft Remote Desktop (10.4.1)
 appstore 409203825 Numbers (10.3.5)
 appstore 409201541 Pages (10.3.5)
-appstore 1429033973 RunCat (8.5)
 appstore 497799835 Xcode (12.2)
