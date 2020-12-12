@@ -185,6 +185,7 @@ cask osxfuse
 cask powershell
 cask rsyncosx
 cask slack
+cask utm
 cask veracrypt
 cask virtualbox
 cask virtualbox-extension-pack
