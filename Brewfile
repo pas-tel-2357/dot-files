@@ -60,6 +60,7 @@ brew libgcrypt
 brew libgpg-error
 brew libidn2
 brew libimobiledevice
+brew libirecovery
 brew libmagic
 brew libmaxminddb
 brew libmpc
@@ -78,7 +79,7 @@ brew libusb
 brew libusbmuxd
 brew libxml2
 brew llvm
-brew lua@5.1
+brew lua
 brew lzo
 brew make
 brew mas
