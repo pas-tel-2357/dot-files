@@ -17,6 +17,7 @@ brew bulk_extractor
 brew c-ares
 brew cairo
 brew cfr-decompiler
+brew cmake
 brew coreutils
 brew ddrescue
 brew dex2jar
@@ -118,9 +119,11 @@ brew sbt
 brew scala
 brew sleuthkit
 brew snappy
+brew sphinx-doc
 brew sqlcipher
 brew sqlite
 brew sshfs
+brew tcl-tk
 brew trash
 brew ucl
 brew unbound
@@ -132,6 +135,7 @@ brew wxmac
 brew wxpython
 brew xz
 brew yara
+brew zsh
 
 tap homebrew/cask-drivers
 cask synologyassistant
@@ -208,10 +212,10 @@ appstore 1037126344 Apple Configurator 2 (2.13.3)
 appstore 640199958 Developer (8.4)
 appstore 682658836 GarageBand (10.4.2)
 appstore 408981434 iMovie (10.2.2)
-appstore 409183694 Keynote (10.3.8)
-appstore 539883307 LINE (6.5.2)
+appstore 409183694 Keynote (10.3.9)
+appstore 539883307 LINE (6.5.3)
 appstore 1295203466 Microsoft Remote Desktop (10.5.0)
-appstore 409203825 Numbers (10.3.5)
-appstore 409201541 Pages (10.3.5)
+appstore 409203825 Numbers (10.3.9)
+appstore 409201541 Pages (10.3.9)
 appstore 1429033973 RunCat (8.9)
 appstore 497799835 Xcode (12.3)
