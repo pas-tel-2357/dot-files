@@ -162,6 +162,7 @@ cask checkra1n
 cask cmake
 cask cutter
 cask db-browser-for-sqlite
+cask discord
 cask docker
 cask dotnet-sdk
 cask doxygen
