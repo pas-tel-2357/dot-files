@@ -4,7 +4,6 @@
 tap homebrew/core
 brew afflib
 brew ant
-brew apktool
 brew autoconf
 brew automake
 brew autopsy
@@ -16,6 +15,7 @@ brew boost
 brew bulk_extractor
 brew c-ares
 brew cairo
+brew carthage
 brew cfr-decompiler
 brew cmake
 brew coreutils
@@ -92,11 +92,10 @@ brew nettle
 brew nghttp2
 brew ninja
 brew nodebrew
-brew numpy
 brew oniguruma
 brew openblas
 brew openjdk
-brew openjdk@8
+brew openjdk@11
 brew openssl@1.1
 brew p11-kit
 brew p7zip
@@ -110,7 +109,6 @@ brew protobuf-c
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
-brew python@3.8
 brew python@3.9
 brew qemu
 brew radare2
@@ -122,17 +120,14 @@ brew snappy
 brew sphinx-doc
 brew sqlcipher
 brew sqlite
-brew sshfs
 brew tcl-tk
 brew trash
 brew ucl
 brew unbound
 brew upx
 brew vde
-brew volatility
 brew webp
 brew wxmac
-brew wxpython
 brew xz
 brew yara
 brew zsh
@@ -181,13 +176,13 @@ cask intellij-idea-ce
 cask ios-app-signer
 cask iterm2
 cask kindle
+cask macfuse
 cask mactex
 cask mendeley
 cask microsoft-auto-update
 cask microsoft-office
 cask mongodb-realm-studio
 cask musescore
-cask osxfuse
 cask powershell
 cask rsyncosx
 cask slack
@@ -209,14 +204,14 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.13.3)
-appstore 640199958 Developer (8.4.1)
-appstore 682658836 GarageBand (10.4.2)
-appstore 408981434 iMovie (10.2.2)
-appstore 409183694 Keynote (10.3.9)
-appstore 539883307 LINE (6.6.0)
-appstore 1295203466 Microsoft Remote Desktop (10.5.1)
-appstore 409203825 Numbers (10.3.9)
-appstore 409201541 Pages (10.3.9)
-appstore 1429033973 RunCat (8.9)
-appstore 497799835 Xcode (12.4)
+appstore 1037126344 Apple Configurator 2
+appstore 640199958 Developer
+appstore 682658836 GarageBand
+appstore 408981434 iMovie
+appstore 409183694 Keynote
+appstore 539883307 LINE
+appstore 1295203466 Microsoft Remote Desktop
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 1429033973 RunCat
+appstore 497799835 Xcode
