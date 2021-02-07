@@ -133,6 +133,8 @@ brew yara
 brew zsh
 
 tap homebrew/cask-drivers
+cask hhkb-keymap-tool
+cask hhkb-pro-driver
 cask synologyassistant
 
 tap homebrew/cask-fonts
