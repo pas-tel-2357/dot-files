@@ -68,6 +68,7 @@ brew libmpc
 brew libplist
 brew libpng
 brew libpq
+brew libpthread-stubs
 brew librsvg
 brew libsmi
 brew libssh
@@ -78,13 +79,20 @@ brew libtool
 brew libunistring
 brew libusb
 brew libusbmuxd
+brew libx11
+brew libxau
+brew libxcb
+brew libxdmcp
+brew libxext
 brew libxml2
+brew libxrender
 brew llvm
 brew lua
 brew lzo
 brew make
 brew mas
 brew meson
+brew mpdecimal
 brew mpfr
 brew ncurses
 brew netpbm
@@ -116,6 +124,7 @@ brew readline
 brew sbt
 brew scala
 brew sleuthkit
+brew smartmontools
 brew snappy
 brew sphinx-doc
 brew sqlcipher
@@ -128,11 +137,13 @@ brew upx
 brew vde
 brew webp
 brew wxmac
+brew xorgproto
 brew xz
 brew yara
 brew zsh
 
 tap homebrew/cask-drivers
+cask eizo-colornavigator
 cask hhkb-keymap-tool
 cask hhkb-pro-driver
 cask synologyassistant
