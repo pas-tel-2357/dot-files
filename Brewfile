@@ -131,6 +131,7 @@ brew sqlcipher
 brew sqlite
 brew tcl-tk
 brew trash
+brew tree
 brew ucl
 brew unbound
 brew upx
@@ -141,6 +142,9 @@ brew xorgproto
 brew xz
 brew yara
 brew zsh
+brew zsh-autosuggestions
+brew zsh-completions
+brew zsh-syntax-highlighting
 
 tap homebrew/cask-drivers
 cask eizo-colornavigator
@@ -220,10 +224,10 @@ brew brew-file
 appstore 1037126344 Apple Configurator 2 (2.13.3)
 appstore 640199958 Developer (8.4.1)
 appstore 682658836 GarageBand (10.4.2)
-appstore 408981434 iMovie (10.2.2)
+appstore 408981434 iMovie (10.2.3)
 appstore 409183694 Keynote (10.3.9)
-appstore 539883307 LINE (6.6.0)
-appstore 1295203466 Microsoft Remote Desktop (10.5.1)
+appstore 539883307 LINE (6.7.0)
+appstore 1295203466 Microsoft Remote Desktop (10.5.2)
 appstore 409203825 Numbers (10.3.9)
 appstore 409201541 Pages (10.3.9)
 appstore 1429033973 RunCat (8.9)
