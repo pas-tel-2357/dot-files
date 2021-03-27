@@ -70,6 +70,7 @@ brew libpng
 brew libpq
 brew libpthread-stubs
 brew librsvg
+brew libslirp
 brew libsmi
 brew libssh
 brew libssh2
@@ -89,6 +90,7 @@ brew libxrender
 brew llvm
 brew lua
 brew lzo
+brew m4
 brew make
 brew mas
 brew meson
@@ -225,10 +227,10 @@ appstore 1037126344 Apple Configurator 2 (2.13.3)
 appstore 640199958 Developer (8.4.1)
 appstore 682658836 GarageBand (10.4.2)
 appstore 408981434 iMovie (10.2.3)
-appstore 409183694 Keynote (10.3.9)
+appstore 409183694 Keynote (11.0)
 appstore 539883307 LINE (6.7.1)
 appstore 1295203466 Microsoft Remote Desktop (10.5.2)
-appstore 409203825 Numbers (10.3.9)
-appstore 409201541 Pages (10.3.9)
+appstore 409203825 Numbers (11.0)
+appstore 409201541 Pages (11.0)
 appstore 1429033973 RunCat (9.0)
 appstore 497799835 Xcode (12.4)
