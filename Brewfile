@@ -202,6 +202,7 @@ cask microsoft-auto-update
 cask microsoft-office
 cask mongodb-realm-studio
 cask musescore
+cask parallels
 cask powershell
 cask rsyncosx
 cask slack
@@ -224,12 +225,12 @@ brew brew-file
 
 # App Store applications
 appstore 1037126344 Apple Configurator 2 (2.13.3)
-appstore 640199958 Developer (8.4.1)
-appstore 682658836 GarageBand (10.4.2)
+appstore 640199958 Developer (9.0.1)
+appstore 682658836 GarageBand (10.4.3)
 appstore 408981434 iMovie (10.2.3)
 appstore 409183694 Keynote (11.0.1)
 appstore 539883307 LINE (6.7.2)
-appstore 1295203466 Microsoft Remote Desktop (10.5.2)
+appstore 1295203466 Microsoft Remote Desktop (10.6.1)
 appstore 409203825 Numbers (11.0)
 appstore 409201541 Pages (11.0)
 appstore 1429033973 RunCat (9.0)
