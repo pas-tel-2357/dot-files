@@ -45,6 +45,7 @@ brew guile
 brew harfbuzz
 brew hashcat
 brew icu4c
+brew ideviceinstaller
 brew isl
 brew jadx
 brew jansson
@@ -87,6 +88,7 @@ brew libxdmcp
 brew libxext
 brew libxml2
 brew libxrender
+brew libzip
 brew llvm
 brew lua
 brew lzo
