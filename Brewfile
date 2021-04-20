@@ -54,6 +54,7 @@ brew jemalloc
 brew jpeg
 brew jq
 brew krb5
+brew ldid
 brew libev
 brew libevent
 brew libewf
