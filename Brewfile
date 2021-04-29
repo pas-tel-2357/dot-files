@@ -155,6 +155,7 @@ tap homebrew/cask-drivers
 cask eizo-colornavigator
 cask hhkb-keymap-tool
 cask hhkb-pro-driver
+cask logitech-options
 cask synologyassistant
 
 tap homebrew/cask-fonts
@@ -227,7 +228,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1037126344 Apple Configurator 2 (2.13.3)
+appstore 1037126344 Apple Configurator 2 (2.14)
 appstore 640199958 Developer (9.0.1)
 appstore 682658836 GarageBand (10.4.3)
 appstore 408981434 iMovie (10.2.3)
