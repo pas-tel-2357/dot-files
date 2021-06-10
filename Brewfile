@@ -50,9 +50,11 @@ brew isl
 brew jadx
 brew jansson
 brew jasper
+brew jbig2dec
 brew jemalloc
 brew jpeg
 brew jq
+brew kaitai-struct-compiler
 brew krb5
 brew ldid
 brew libev
@@ -61,6 +63,7 @@ brew libewf
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libidn
 brew libidn2
 brew libimobiledevice
 brew libirecovery
@@ -90,6 +93,7 @@ brew libxext
 brew libxml2
 brew libxrender
 brew libzip
+brew little-cms2
 brew llvm
 brew lua
 brew lzo
@@ -109,6 +113,7 @@ brew oniguruma
 brew openblas
 brew openjdk
 brew openjdk@11
+brew openjpeg
 brew openssl@1.1
 brew p11-kit
 brew p7zip
@@ -128,6 +133,7 @@ brew radare2
 brew readline
 brew sbt
 brew scala
+brew six
 brew sleuthkit
 brew smartmontools
 brew snappy
@@ -135,6 +141,7 @@ brew sphinx-doc
 brew sqlcipher
 brew sqlite
 brew tcl-tk
+brew testdisk
 brew trash
 brew tree
 brew ucl
@@ -150,6 +157,7 @@ brew zsh
 brew zsh-autosuggestions
 brew zsh-completions
 brew zsh-syntax-highlighting
+brew zstd
 
 tap homebrew/cask-drivers
 cask eizo-colornavigator
@@ -229,13 +237,13 @@ brew brew-file
 
 # App Store applications
 appstore 1037126344  Apple Configurator 2      (2.14)
-appstore 640199958   Developer                 (9.0.1)
+appstore 640199958   Developer                 (9.2)
 appstore 682658836   GarageBand                (10.4.3)
 appstore 408981434   iMovie                    (10.2.3)
-appstore 409183694   Keynote                   (11.0.1)
-appstore 539883307   LINE                      (6.7.2)
+appstore 409183694   Keynote                   (11.1)
+appstore 539883307   LINE                      (6.7.3)
 appstore 1295203466  Microsoft Remote Desktop  (10.6.6)
-appstore 409203825   Numbers                   (11.0)
-appstore 409201541   Pages                     (11.0)
-appstore 1429033973  RunCat                    (9.0)
+appstore 409203825   Numbers                   (11.1)
+appstore 409201541   Pages                     (11.1)
+appstore 1429033973  RunCat                    (9.1)
 appstore 497799835   Xcode                     (12.5)
