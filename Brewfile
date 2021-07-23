@@ -4,6 +4,10 @@
 tap homebrew/core
 brew afflib
 brew ant
+brew apr
+brew apr-util
+brew argon2
+brew aspell
 brew autoconf
 brew automake
 brew autopsy
@@ -12,6 +16,7 @@ brew bash-completion
 brew bdw-gc
 brew bison
 brew boost
+brew brotli
 brew bulk_extractor
 brew c-ares
 brew cairo
@@ -19,11 +24,13 @@ brew carthage
 brew cfr-decompiler
 brew cmake
 brew coreutils
+brew curl
 brew ddrescue
 brew dex2jar
 brew flex
 brew fontconfig
 brew foremost
+brew freetds
 brew freetype
 brew fribidi
 brew gcc
@@ -77,6 +84,7 @@ brew libpthread-stubs
 brew librsvg
 brew libslirp
 brew libsmi
+brew libsodium
 brew libssh
 brew libssh2
 brew libtasn1
@@ -114,6 +122,7 @@ brew openblas
 brew openjdk
 brew openjdk@11
 brew openjpeg
+brew openldap
 brew openssl@1.1
 brew p11-kit
 brew p7zip
@@ -131,6 +140,7 @@ brew python@3.9
 brew qemu
 brew radare2
 brew readline
+brew rtmpdump
 brew sbt
 brew scala
 brew six
@@ -142,10 +152,12 @@ brew sqlcipher
 brew sqlite
 brew tcl-tk
 brew testdisk
+brew tidy-html5
 brew trash
 brew tree
 brew ucl
 brew unbound
+brew unixodbc
 brew upx
 brew vde
 brew webp
@@ -200,8 +212,6 @@ cask ghidra
 cask google-backup-and-sync
 cask google-chrome
 cask gpg-suite
-cask iexplorer
-cask ifunbox
 cask impactor
 cask intellij-idea-ce
 cask ios-app-signer
@@ -237,13 +247,13 @@ brew brew-file
 
 # App Store applications
 appstore 1037126344  Apple Configurator 2      (2.14)
-appstore 640199958   Developer                 (9.2)
+appstore 640199958   Developer                 (9.2.2)
 appstore 682658836   GarageBand                (10.4.3)
-appstore 408981434   iMovie                    (10.2.3)
+appstore 408981434   iMovie                    (10.2.5)
 appstore 409183694   Keynote                   (11.1)
-appstore 539883307   LINE                      (6.7.3)
-appstore 1295203466  Microsoft Remote Desktop  (10.6.6)
+appstore 539883307   LINE                      (7.0.3)
+appstore 1295203466  Microsoft Remote Desktop  (10.6.7)
 appstore 409203825   Numbers                   (11.1)
 appstore 409201541   Pages                     (11.1)
-appstore 1429033973  RunCat                    (9.1)
-appstore 497799835   Xcode                     (12.5)
+appstore 1429033973  RunCat                    (9.2.1)
+appstore 497799835   Xcode                     (12.5.1)
