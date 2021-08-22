@@ -161,7 +161,6 @@ brew unixodbc
 brew upx
 brew vde
 brew webp
-brew wxmac
 brew xorgproto
 brew xz
 brew yara
@@ -209,8 +208,8 @@ cask fork
 cask geekbench
 cask genymotion
 cask ghidra
-cask google-backup-and-sync
 cask google-chrome
+cask google-drive
 cask gpg-suite
 cask impactor
 cask intellij-idea-ce
@@ -247,13 +246,13 @@ brew brew-file
 
 # App Store applications
 appstore 1037126344  Apple Configurator 2      (2.14)
-appstore 640199958   Developer                 (9.2.2)
+appstore 640199958   Developer                 (9.2.3)
 appstore 682658836   GarageBand                (10.4.3)
 appstore 408981434   iMovie                    (10.2.5)
 appstore 409183694   Keynote                   (11.1)
-appstore 539883307   LINE                      (7.0.3)
+appstore 539883307   LINE                      (7.1.0)
 appstore 1295203466  Microsoft Remote Desktop  (10.6.7)
 appstore 409203825   Numbers                   (11.1)
 appstore 409201541   Pages                     (11.1)
-appstore 1429033973  RunCat                    (9.2.1)
+appstore 1429033973  RunCat                    (9.4)
 appstore 497799835   Xcode                     (12.5.1)
