@@ -19,6 +19,7 @@ brew boost
 brew brotli
 brew bulk_extractor
 brew c-ares
+brew ca-certificates
 brew cairo
 brew carthage
 brew cfr-decompiler
@@ -77,6 +78,7 @@ brew libirecovery
 brew libmagic
 brew libmaxminddb
 brew libmpc
+brew libnghttp2
 brew libplist
 brew libpng
 brew libpq
@@ -136,6 +138,7 @@ brew protobuf-c
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
+brew python@3.10
 brew python@3.9
 brew qemu
 brew radare2
@@ -246,12 +249,12 @@ brew brew-file
 
 # App Store applications
 appstore 1037126344  Apple Configurator 2      (2.14)
-appstore 640199958   Developer                 (9.2.3)
-appstore 682658836   GarageBand                (10.4.3)
-appstore 408981434   iMovie                    (10.2.5)
+appstore 640199958   Developer                 (9.3)
+appstore 682658836   GarageBand                (10.4.4)
+appstore 408981434   iMovie                    (10.3)
 appstore 409183694   Keynote                   (11.2)
-appstore 539883307   LINE                      (7.2.0)
-appstore 1295203466  Microsoft Remote Desktop  (10.6.8)
+appstore 539883307   LINE                      (7.3.0)
+appstore 1295203466  Microsoft Remote Desktop  (10.7.0)
 appstore 409203825   Numbers                   (11.2)
 appstore 409201541   Pages                     (11.2)
 appstore 1429033973  RunCat                    (9.4)
