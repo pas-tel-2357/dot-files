@@ -184,6 +184,7 @@ cask font-noto-sans
 
 tap homebrew/cask-versions
 cask mono-mdk-for-visual-studio
+cask vmware-fusion-tech-preview
 
 tap homebrew/cask
 cask 010-editor
@@ -233,7 +234,6 @@ cask virtualbox-extension-pack
 cask visual-studio
 cask visual-studio-code
 cask vlc
-cask vmware-fusion
 cask wireshark
 cask xquartz
 cask zoom
@@ -249,10 +249,10 @@ appstore 1037126344  Apple Configurator 2      (2.14)
 appstore 640199958   Developer                 (9.2.3)
 appstore 682658836   GarageBand                (10.4.3)
 appstore 408981434   iMovie                    (10.2.5)
-appstore 409183694   Keynote                   (11.1)
-appstore 539883307   LINE                      (7.1.0)
-appstore 1295203466  Microsoft Remote Desktop  (10.6.7)
-appstore 409203825   Numbers                   (11.1)
-appstore 409201541   Pages                     (11.1)
+appstore 409183694   Keynote                   (11.2)
+appstore 539883307   LINE                      (7.2.0)
+appstore 1295203466  Microsoft Remote Desktop  (10.6.8)
+appstore 409203825   Numbers                   (11.2)
+appstore 409201541   Pages                     (11.2)
 appstore 1429033973  RunCat                    (9.4)
-appstore 497799835   Xcode                     (12.5.1)
+appstore 497799835   Xcode                     (13.0)
