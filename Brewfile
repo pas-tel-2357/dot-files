@@ -252,7 +252,7 @@ brew brew-file
 appstore 1037126344  Apple Configurator 2      (2.15)
 appstore 640199958   Developer                 (9.3.1)
 appstore 682658836   GarageBand                (10.4.4)
-appstore 408981434   iMovie                    (10.3)
+appstore 408981434   iMovie                    (10.3.1)
 appstore 409183694   Keynote                   (11.2)
 appstore 539883307   LINE                      (7.3.1)
 appstore 1295203466  Microsoft Remote Desktop  (10.7.1)
