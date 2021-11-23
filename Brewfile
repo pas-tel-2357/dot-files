@@ -175,7 +175,6 @@ brew zsh-syntax-highlighting
 brew zstd
 
 tap homebrew/cask-drivers
-cask eizo-colornavigator
 cask hhkb-keymap-tool
 cask hhkb-pro-driver
 cask logitech-options
@@ -232,9 +231,6 @@ cask parallels
 cask powershell
 cask rsyncosx
 cask slack
-cask veracrypt
-cask virtualbox
-cask virtualbox-extension-pack
 cask visual-studio
 cask visual-studio-code
 cask vlc
