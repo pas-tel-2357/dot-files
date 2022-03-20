@@ -4,6 +4,7 @@
 tap homebrew/core
 brew afflib
 brew ant
+brew aom
 brew apr
 brew apr-util
 brew argon2
@@ -55,6 +56,7 @@ brew harfbuzz
 brew hashcat
 brew icu4c
 brew ideviceinstaller
+brew imath
 brew isl
 brew jadx
 brew jansson
@@ -62,10 +64,12 @@ brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
+brew jpeg-xl
 brew jq
 brew kaitai-struct-compiler
 brew krb5
 brew ldid
+brew libavif
 brew libev
 brew libevent
 brew libewf
@@ -96,6 +100,7 @@ brew libtool
 brew libunistring
 brew libusb
 brew libusbmuxd
+brew libvmaf
 brew libx11
 brew libxau
 brew libxcb
@@ -122,6 +127,7 @@ brew ninja
 brew nodebrew
 brew oniguruma
 brew openblas
+brew openexr
 brew openjdk
 brew openjdk@11
 brew openjpeg
@@ -180,12 +186,12 @@ brew brew-file
 # App Store applications
 appstore 1037126344  Apple Configurator 2      (2.15)
 appstore 640199958   Developer                 (9.3.1)
-appstore 682658836   GarageBand                (10.4.4)
+appstore 682658836   GarageBand                (10.4.6)
 appstore 408981434   iMovie                    (10.3.1)
 appstore 409183694   Keynote                   (11.2)
-appstore 539883307   LINE                      (7.3.1)
-appstore 1295203466  Microsoft Remote Desktop  (10.7.1)
+appstore 539883307   LINE                      (7.7.0)
+appstore 1295203466  Microsoft Remote Desktop  (10.7.6)
 appstore 409203825   Numbers                   (11.2)
 appstore 409201541   Pages                     (11.2)
-appstore 1429033973  RunCat                    (9.4)
-appstore 497799835   Xcode                     (13.1)
+appstore 1429033973  RunCat                    (9.6)
+appstore 497799835   Xcode                     (13.3)
